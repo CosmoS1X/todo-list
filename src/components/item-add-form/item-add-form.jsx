@@ -38,7 +38,7 @@ export default class ItemAddForm extends Component {
           type="submit"
           className="btn btn-outline-secondary"
         >
-          Add item
+          Add task
         </button>
       </form>
     );
