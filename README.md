@@ -9,7 +9,7 @@ Todo list is a small application for keeping a to-do list. You can use it to add
 
 [Click here](http://todo-list-vert.vercel.app/) to see live demo.
 
-[![Preview](https://i114.fastpic.ru/big/2021/0615/97/b52604434938caf551d4796e73b7d797.png)
+![Preview](https://i114.fastpic.ru/big/2021/0615/97/b52604434938caf551d4796e73b7d797.png)
 
 *Screenshot of the app as example*
 
