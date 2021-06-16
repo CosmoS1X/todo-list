@@ -18,6 +18,7 @@ Todo list is a small application for keeping a to-do list. You can use it to add
 To install locally, type in the console:
 
     git clone git@github.com:CosmoS1X/todo-list.git
+    cd todo-list
     make install
 
 To make build, type in the console:
